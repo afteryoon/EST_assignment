@@ -1,4 +1,5 @@
 package weeklyQuiz1;
 
-public class Promotion {
+public interface Promotion {
+    public int getDiscountAmount();
 }

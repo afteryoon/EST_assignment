@@ -2,34 +2,34 @@ package weeklyQuiz2;
 
 import java.util.Scanner;
 
-import static weeklyQuiz2.Util.*;
+import static weeklyQuiz2.Util.inputName;
+import static weeklyQuiz2.Util.inputPhone;
 
-public class BusinessContact extends Contact {
-    private String company;
+public class PersonalContact extends Contact {
+    private String relationship;
     private static final Scanner scanner = new Scanner(System.in);
 
-    public BusinessContact(String name, String phoneNumber, String company) {
+    public PersonalContact(String name, String phoneNumber, String relationship) {
         super(name, phoneNumber);
-        this.company = company;
+        this.relationship = relationship;
     }
 
     // 팩토리 메서드
-    public static BusinessContact createBusinessContact() {
+    public static PersonalContact createPersonalContact() {
         String name = inputName();
         String phoneNumber = inputPhone();
-        String company = promptForCompany();
+        String relationship = promptForRelationship();
 
-        return new BusinessContact(name, phoneNumber, company);
+        return new PersonalContact(name, phoneNumber, relationship);
     }
 
-    private static String promptForCompany(){
-        System.out.print("회사명을 입력하세요: ");
-        String company = scanner.nextLine();
-        return company;
+    private static String promptForRelationship(){
+        System.out.print("관계를 입력하세요: ");
+        return scanner.nextLine();
     }
 
     @Override
     public String toString() {
-        return super.toString() + ", 회사명 : " + company;
+        return super.toString() + ", 회사명 : " + relationship;
     }
 }

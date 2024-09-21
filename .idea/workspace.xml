@@ -1,33 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f6216d-89ea-48c3-81eb-6b4ed02a3f70" name="변경" comment="" />
+    <list default="true" id="c0f6216d-89ea-48c3-81eb-6b4ed02a3f70" name="변경" comment="init: project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EST_assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EST_assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Beauty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/Beauty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Grocery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/Grocery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/LargeAppliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/LargeAppliance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/ProductExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/ProductExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/ProductExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/ProductExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Promotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz1/Promotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz2/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/BusinessContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz2/BusinessContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz2/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/PersonalContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz2/PersonalContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/UserSearchAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz2/UserSearchAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuiz2/Util.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "afteryoon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/afteryoon/EST_assignment.git",
+    "accountId": "5475816d-bcdd-4cfa-980f-702d7a4a7437"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2mKJcs7EsUvJnWFMxdS1maPpX61" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ProductExampleTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "Console",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ProductExample.executor": "Run",
+    "애플리케이션.UserSearchAction.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="weeklyQuiz1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="weeklyQuiz1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="weeklyQuiz2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,11 +116,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726819419508</updated>
-      <workItem from="1726819420474" duration="1000" />
+      <workItem from="1726819420474" duration="14509000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: project" />
   </component>
 </project>
