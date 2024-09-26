@@ -1,5 +1,8 @@
 package daliy.d0923;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Consumer;
 import java.util.function.Function;
 
 public class LambdaExample_6 {
@@ -25,6 +28,13 @@ public class LambdaExample_6 {
 
         double mathAvg = avg( s -> s.getMathScore() );
         System.out.println("수학 평균 점수: " + mathAvg);
+
+        System.out.println("-----------");
+        Consumer<String> printer = message -> System.out.println("Message: " + message);
+        printer.accept("Hello from Consumer!");  // 출력: Message: Hello from Consumer!
+        List<String> messages = Arrays.asList("Hello", "Lambda", "Consumer");
+        messages.forEach(printer);
+
     }
 
 
