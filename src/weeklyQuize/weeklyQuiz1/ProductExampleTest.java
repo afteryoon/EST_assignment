@@ -1,4 +1,4 @@
-package weeklyQuiz1;
+package weeklyQuize.weeklyQuiz1;
 
 import org.junit.jupiter.api.Test;
 

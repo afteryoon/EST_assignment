@@ -1,4 +1,4 @@
-package weeklyQuiz2;
+package weeklyQuize.weeklyQuiz2;
 
 public abstract class Contact {
     String name;

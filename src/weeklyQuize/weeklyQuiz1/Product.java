@@ -1,4 +1,4 @@
-package weeklyQuiz1;
+package weeklyQuize.weeklyQuiz1;
 
 public abstract class Product implements Promotion {
     //객체의 상태 변경을 방지

@@ -1,4 +1,4 @@
-package weeklyQuiz1;
+package weeklyQuize.weeklyQuiz1;
 
 public class Grocery extends Product {
     static private final int discount = 2000;

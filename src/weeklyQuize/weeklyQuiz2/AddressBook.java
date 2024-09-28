@@ -1,4 +1,4 @@
-package weeklyQuiz2;
+package weeklyQuize.weeklyQuiz2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

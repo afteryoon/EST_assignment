@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f6216d-89ea-48c3-81eb-6b4ed02a3f70" name="변경" comment="docs : 0924 데일리과제 + 다익스트라 문제풀이">
-      <change afterPath="$PROJECT_DIR$/src/solvedAC/dijkstra/RE특정한최단경로.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solvedAC/dijkstra/특정한최단경로.java" afterDir="false" />
+    <list default="true" id="c0f6216d-89ea-48c3-81eb-6b4ed02a3f70" name="변경" comment="docs :다익스트라 풀이">
+      <change afterPath="$PROJECT_DIR$/src/lib/mysql-connector-j-8.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz3/MySQLConnectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz3/StudentDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daliy/d0923/LambdaExample_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daliy/d0923/LambdaExample_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EST_assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EST_assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solvedAC/dijkstra/RE특정한최단경로.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solvedAC/dijkstra/RE특정한최단경로.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Beauty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/Beauty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Grocery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/Grocery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/LargeAppliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/LargeAppliance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/ProductExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/ProductExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/ProductExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/ProductExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz1/Promotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz1/Promotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz2/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/BusinessContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz2/BusinessContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz2/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/PersonalContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz2/PersonalContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/UserSearchAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz2/UserSearchAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyQuiz2/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyQuize/weeklyQuiz2/Util.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +36,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -78,9 +95,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.LambdaExample_6.executor": "Run",
+    "애플리케이션.MySQLConnectionExample.executor": "Run",
     "애플리케이션.ProductExample.executor": "Run",
     "애플리케이션.RE특정한최단경로.executor": "Run",
     "애플리케이션.UserSearchAction.executor": "Run",
@@ -91,6 +112,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="weeklyQuize.weeklyQuiz3" />
       <recent name="weeklyQuiz1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -130,7 +152,8 @@
       <workItem from="1727143937639" duration="626000" />
       <workItem from="1727242644182" duration="612000" />
       <workItem from="1727247864772" duration="5544000" />
-      <workItem from="1727309880145" duration="7403000" />
+      <workItem from="1727309880145" duration="12210000" />
+      <workItem from="1727510752057" duration="2302000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -148,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727253409467</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="docs :다익스트라 풀이">
+      <option name="closed" value="true" />
+      <created>1727344575995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727344575995</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +191,7 @@
     <MESSAGE value="feat : weeklyQuiz" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="docs : 0924 데일리과제 + 다익스트라 문제풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs : 0924 데일리과제 + 다익스트라 문제풀이" />
+    <MESSAGE value="docs :다익스트라 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs :다익스트라 풀이" />
   </component>
 </project>

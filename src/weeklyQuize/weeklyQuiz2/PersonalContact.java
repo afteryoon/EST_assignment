@@ -1,9 +1,9 @@
-package weeklyQuiz2;
+package weeklyQuize.weeklyQuiz2;
 
 import java.util.Scanner;
 
-import static weeklyQuiz2.Util.inputName;
-import static weeklyQuiz2.Util.inputPhone;
+import static weeklyQuize.weeklyQuiz2.Util.inputName;
+import static weeklyQuize.weeklyQuiz2.Util.inputPhone;
 
 public class PersonalContact extends Contact {
     private String relationship;

@@ -1,4 +1,4 @@
-package weeklyQuiz1;
+package weeklyQuize.weeklyQuiz1;
 
 public class LargeAppliance extends Product {
     static private final int discount = 0;

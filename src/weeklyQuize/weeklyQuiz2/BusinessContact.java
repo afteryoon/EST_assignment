@@ -1,8 +1,8 @@
-package weeklyQuiz2;
+package weeklyQuize.weeklyQuiz2;
 
 import java.util.Scanner;
 
-import static weeklyQuiz2.Util.*;
+import static weeklyQuize.weeklyQuiz2.Util.*;
 
 public class BusinessContact extends Contact {
     private String company;
